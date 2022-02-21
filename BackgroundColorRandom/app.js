@@ -1,8 +1,8 @@
-const colores= ["green", "red", 
-"rgba(133,122,200)","f15025"];
+const colores= ["blue", "red", 
+"pink","yellow","purple"];
 
-const btn = document.getElementById("btn");
-const color = document.querySelector(".color");
+const btn = document.getElementById('btn');
+const color = document.querySelector('.color');
 
 btn.addEventListener("click", function(){
     //random entre 0 - 3
